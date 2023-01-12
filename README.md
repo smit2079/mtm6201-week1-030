@@ -1,4 +1,4 @@
-# MTM6201 - Web Dev II - Week 1 Demo
+# MTM6201 - Web Dev II - Week 1
 Nate Smith
 
 - Git & Github
